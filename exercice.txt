@@ -1,0 +1,7 @@
+echo "Enter the number"
+
+read Num
+
+let "carre=num*num"
+
+echo "Le carre de $num est : $carre"
